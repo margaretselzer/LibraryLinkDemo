@@ -1,0 +1,9 @@
+{
+    "name": "Structured Lib",
+    "description": "A lib where include and source files are in include/<namespace name> and src/<namespace name> folders.",
+    "build": {
+        "unflags": "-std=gnu++11",
+        "flags": "-std=gnu++17"
+    },
+    "version": "1.0.0"
+}

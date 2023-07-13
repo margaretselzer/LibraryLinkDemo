@@ -1,0 +1,9 @@
+{
+    "name": "Simple Lib",
+    "description": "A lib where include and source files are in the root folder",
+    "build": {
+        "unflags": "-std=gnu++11",
+        "flags": "-std=gnu++17"
+    },
+    "version": "1.0.0"
+}

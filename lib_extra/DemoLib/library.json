@@ -1,0 +1,9 @@
+{
+    "name": "Demo Lib",
+    "description": "A lib to demo library include problems",
+    "build": {
+        "unflags": "-std=gnu++11",
+        "flags": "-std=gnu++17"
+    },
+    "version": "1.0.0"
+}
